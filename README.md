@@ -1,2 +1,10 @@
-# wachamo-universty
-wachamo universty
+🍳 Wachemo University Student Meal Planner
+
+Never miss a meal again! Our website offers a comprehensive meal schedule for Wachemo University students, detailing breakfast, lunch, and dinner options for every day of the week. Plan your meals effortlessly and make the most of your dining experience on campus. Join now and take control of your food schedule!
+
+Developed By Dagmawi Lencho.
+
+    👇👇👇👇👇👇👇
+
+ check out
+https://dagmawi-lencho.github.io/Wachemo-university/
