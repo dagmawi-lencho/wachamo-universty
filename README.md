@@ -7,4 +7,5 @@ Developed By Dagmawi Lencho.
     👇👇👇👇👇👇👇
 
  check out
-https://dagmawi-lencho.github.io/Wachemo-university/
+ https://dagmawi-lencho.github.io/wachamo-universty
+ 
